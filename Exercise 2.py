@@ -1,3 +1,5 @@
+# http://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
+
 basenum = int(input('Enter a number: '))
 
 if basenum % 4 == 0:
